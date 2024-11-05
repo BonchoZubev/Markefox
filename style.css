@@ -125,6 +125,12 @@ nav a:hover {
     letter-spacing: 2px;
 }
 
+.test {
+    font-size: 20px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
 section {
     height: 100vh; 
     display: flex;
